@@ -5,4 +5,4 @@ You should make sure that the tags having ids #input, #settingValueButton,#focus
 Also make sure that when button with id settingValueButton is clicked the value if InputField appears in the TextArea and when button with id focusInputButton the InputField with id input becomes focussed.
 
 
-![Demo Video](https://d3dyfaf3iutrxo.cloudfront.net/general/upload/70de355fe7194549aa7e43ae0ac32de7.webm)
+[Demo Video](https://d3dyfaf3iutrxo.cloudfront.net/general/upload/70de355fe7194549aa7e43ae0ac32de7.webm)
